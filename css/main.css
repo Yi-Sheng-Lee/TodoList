@@ -1,0 +1,13 @@
+.toDoList{
+	padding: 0;
+	margin: 2rem 0;
+}
+.list{
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+.checkedList{
+	color: #fff;
+	text-decoration: line-through;
+}
