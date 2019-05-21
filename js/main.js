@@ -42,6 +42,7 @@ $(document).ready(function(){
 			window.localStorage.setItem('listData', JSON.stringify(data));
 			updateList(data);
 		}
+		$('#input').val('');
 		
 	}
 
