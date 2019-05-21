@@ -74,16 +74,6 @@ $(document).ready(function(){
 			});
 		});
 	}
-	// checkLocalStorageData();
-	// function checkLocalStorageData(){
-	// 	if(data == ""){
-	// 		$('#input').css("disabled");
-	// 		console.log("EMPTY");
-	// 	} else{
-	// 		$('#input').removeClass("disabled");
-	// 		console.log("EMPTYe");
-	// 	}
-	// }
 })
 
 
